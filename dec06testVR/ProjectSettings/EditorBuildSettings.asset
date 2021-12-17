@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ummalramlshirindec16/scene/desert.unity
+    guid: fcf26d4d3ffe04b1b88233cb4508acad
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: afb6872e3674d41989410c23e65fad55, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 44bd49d6cfa8d4ec3a91e5c4de03ab42, type: 2}
